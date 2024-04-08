@@ -1,4 +1,7 @@
 public class Abc
 {
-	nothing special
+	public void test()
+	{
+		System.out.println("HELLO Everybody");
+	}	
 }

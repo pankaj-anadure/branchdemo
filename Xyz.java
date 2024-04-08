@@ -1,4 +1,7 @@
 public class Xyz
 {
-	nothing special here as well
+	public void demo()
+	{
+		System.out.println("Have a good day :) ");
+	}
 }
